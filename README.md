@@ -1,2 +1,2 @@
 # HerenciaYPolimorfismo_LaimeFacundo
-ProyectoJava_ Agencia de Autos
+Un programa básico para la administración de una"Agencia de autos". Cuenta con una lista donde se van alamacenando las distintas marcas de coches junto con sus respectivas características. Estas las añade el mismo usuario mediante una interfaz que aparece en la misma ventana. El usuario podra añadir, eleiminar, y buscar los vehiculos tanto manualmente como por 'categoria' (Compacto,  Lujo, Furgonoeta, Camioneta).
